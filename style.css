@@ -1,0 +1,30 @@
+body {
+    background-color: #e9eaea;
+    font-family: sans-serif;
+    margin: 50px
+}
+
+h1 {
+color: #cc0e2b;
+}
+
+p {
+    color: #696b6e;
+    margin-bottom: 30px;
+}
+
+.grijs {
+    color: #939598;
+}
+
+a { background-color: #cc0e2b;
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #333;
+
+}
